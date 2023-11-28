@@ -69,7 +69,7 @@ for char in selected_word:
     display.append("_")
 
 
-print(selected_word)
+#print(selected_word)
 print(display)
 
 check_blanks = 1
